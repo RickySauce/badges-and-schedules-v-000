@@ -28,5 +28,4 @@ def printer(attendees)
   room_assignments.each do |assignment|
     puts assignment
   end
-  binding.pry
 end
